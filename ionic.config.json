@@ -1,0 +1,7 @@
+{
+  "name": "StorageLab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
